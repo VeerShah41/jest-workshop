@@ -39,11 +39,12 @@ Checks if the the coupon amount is greater than subtotal then the subtotal to be
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
-- GitHub Actions Run URL:
+- Did CI pass successfully? (Yes / No) Yes
+- GitHub Actions Run URL: https://github.com/VeerShah41/jest-workshop/actions/runs/21826011758
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
+How to create tests and how to write the yml file 
 
