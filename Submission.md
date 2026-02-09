@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Veer Shah
+- Roll Number: 2024-B-04062005C
+- GitHub Username: VeerShah41
 
 ---
 
